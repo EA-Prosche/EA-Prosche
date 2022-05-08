@@ -21,10 +21,10 @@ https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif
   <a href="https://github.com/EA-Prosche/EA-Prosche"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+a+Data+Analysis...;I+am+also+a+Python+Developer...;"></a>
 </p>
 
-<p align="right"><img src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></p>
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"> Github Stats
 
+<p align="right"><img src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" height="192px"></p>
 
   <br/>
   <p align="left">
