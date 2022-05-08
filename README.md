@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/EA-Prosche/github-readme-stats"><img alt="EA-Prosche's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EA-Prosche&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/EA-Prosche/github-readme-stats"><img alt="EA-Prosche's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EA-Prosche&show_icons=true&count_private=true&theme=chartreuse-dark" height="192px"/></a>
 <br/>
   &nbsp;
   </p>
