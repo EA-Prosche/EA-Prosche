@@ -40,23 +40,14 @@ You can click the Preview link to take a look at your changes.
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EA-Prosche&layout=compact&theme=juicyfresh" alt="EA-Prosche" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EA-Prosche&layout=compact&theme=chartreuse-dark" alt="EA-Prosche" /></a> </p>
 
 -----
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EA-Prosche&theme=juicyfresh" alt="EA-Prosche" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EA-Prosche&theme=chartreuse-dark" alt="EA-Prosche" /></p>
 
 <br>
 <br>
-
------
-
-  <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EA-Prosche&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=EA-Prosche&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
 
 -----
