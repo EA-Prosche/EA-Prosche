@@ -14,11 +14,10 @@ You can click the Preview link to take a look at your changes.
 
 
 https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif
+https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif
 --->
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"> Github Stats
-
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
@@ -27,6 +26,7 @@ https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif
 <br/>
   &nbsp;
   </p>
+  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EA-Prosche&theme=algolia" alt="EA-Prosche" /></p>
 
 ----
 
@@ -47,7 +47,7 @@ https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif
 -----
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EA-Prosche&theme=algolia" alt="EA-Prosche" /></p>
+
 
 <br>
 <br>
