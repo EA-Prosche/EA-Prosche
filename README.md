@@ -19,7 +19,7 @@ https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"> Github Stats
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="350px" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="320px" /></p>
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
