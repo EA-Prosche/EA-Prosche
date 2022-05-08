@@ -7,6 +7,8 @@ https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif
 https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+EA-Prosche!;I'm+a+Data+Analysis...;I'm+also+Python+Developer...;)](https://git.io/typing-svg)
+
+<p><img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 --->
 
 
@@ -18,7 +20,7 @@ https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif
   <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+a+Data+Analysis...;I+am+also+a+Python+Developer...;"></a>
 </p>
 
-<p><img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br>
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"> Github Stats
 
