@@ -1,25 +1,15 @@
 <!---
-- 👋 Hi, I’m @EA-Prosche
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-EA-Prosche/EA-Prosche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EA-Prosche&count_private=true&show_icons=true&theme=radical)](https://github.com/EA-Prosche/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EA-Prosche&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 
 https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif
 https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif
 --->
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"> Github Stats
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="320px" /></p>
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"> Github Stats
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
