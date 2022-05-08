@@ -26,8 +26,6 @@ You can click the Preview link to take a look at your changes.
   &nbsp;
   </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EA-Prosche&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ----
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
@@ -37,3 +35,11 @@ You can click the Preview link to take a look at your changes.
 
 
 <br/>
+
+----
+
+## :trophy: Git profile Trophies
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EA-Prosche&layout=compact&theme=algolia" alt="EA-Prosche" /></a> </p>
+
+-----
