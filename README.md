@@ -19,7 +19,7 @@ https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"> Github Stats
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="100px" /></p>
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
@@ -32,7 +32,7 @@ https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif
 
 ----
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <summary><b>🔥 Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/EA-Prosche"><img alt="EA-Prosche's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=EA-Prosche&custom_title=EA-Prosche's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
@@ -45,13 +45,5 @@ https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif
 ## :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EA-Prosche&layout=compact&theme=algolia" alt="EA-Prosche" /></a> </p>
-
------
-
-## 🔥 Streak Stats
-
-
-<br>
-<br>
 
 -----
