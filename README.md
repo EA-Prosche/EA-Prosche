@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 --->
 
-## 📊 Github Stats
+## 🔥 Github Stats
 
 
 
@@ -24,6 +24,7 @@ You can click the Preview link to take a look at your changes.
     <a href="https://github.com/EA-Prosche/github-readme-stats"><img alt="EA-Prosche's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EA-Prosche&show_icons=true&count_private=true&theme=radical" height="192px"/></a>
 <br/>
   &nbsp;
+	        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
   </p>
 
 ----
