@@ -40,7 +40,7 @@ https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EA-Prosche&layout=compact&theme=chartreuse-dark" alt="EA-Prosche" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EA-Prosche&layout=compact&theme=react-dark" alt="EA-Prosche" /></a> </p>
 
 -----
 
