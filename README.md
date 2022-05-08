@@ -24,8 +24,12 @@ You can click the Preview link to take a look at your changes.
     <a href="https://github.com/EA-Prosche/github-readme-stats"><img alt="EA-Prosche's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EA-Prosche&show_icons=true&count_private=true&theme=radical" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EA-Prosche&langs_count=10&layout=compact&theme=algolia" alt="EA-Prosche" height="192px"/>
-  <br/>
+  </p>
+
+   <p align="center">
+    <a href="https://github.com/EA-Prosche/github-readme-stats"><img alt="EA-Prosche's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EA-Prosche&theme=radical" height="192px"/></a>
+<br/>
+  &nbsp;
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 
