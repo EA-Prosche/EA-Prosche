@@ -19,6 +19,8 @@ https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"> Github Stats
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="left">
@@ -26,7 +28,7 @@ https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif
 <br/>
   &nbsp;
   </p>
-  <p align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EA-Prosche&theme=algolia" alt="EA-Prosche" /></p>
+  <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EA-Prosche&theme=algolia" alt="EA-Prosche" /></p>
 
 ----
 
