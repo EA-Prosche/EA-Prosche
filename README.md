@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EA-Prosche&layout=compact&theme=chartreuse-dark" alt="EA-Prosche" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EA-Prosche&layout=compact&theme=algolia" alt="EA-Prosche" /></a> </p>
 
 -----
 
