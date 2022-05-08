@@ -32,7 +32,7 @@ https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif
   &nbsp;
   </p>
   <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EA-Prosche&theme=algolia" alt="EA-Prosche" />
-  <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
+  <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif"  width="300px" alt="adam-pw" />
 </p>
 
 ----
