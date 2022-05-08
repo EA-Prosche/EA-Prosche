@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/EA-Prosche/github-readme-stats"><img alt="EA-Prosche's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EA-Prosche&show_icons=true&count_private=true&theme=radical" height="192px"/></a>
+    <a href="https://github.com/EA-Prosche/github-readme-stats"><img alt="EA-Prosche's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EA-Prosche&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EA-Prosche&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="EA-Prosche" height="192px"/>
@@ -41,12 +41,12 @@ You can click the Preview link to take a look at your changes.
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EA-Prosche&layout=compact&theme=radical" alt="EA-Prosche" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EA-Prosche&layout=compact&theme=algolia" alt="EA-Prosche" /></a> </p>
 
 -----
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EA-Prosche&theme=radical" alt="EA-Prosche" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EA-Prosche&theme=algolia" alt="EA-Prosche" /></p>
 
 <br>
 <br>
