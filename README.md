@@ -15,10 +15,10 @@ https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif
 
 
 <h3 align="center">
-  Welcome to EA-Prosche's Github!
+  Welcome to EA-Prosche's Github Page!
 </h3>
 <p align="center">
-  <a href="https://github.com/EA-Prosche/EA-Prosche"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+a+Data+Analysis...;I+am+also+a+Python+Developer...;"></a>
+  <a href="https://github.com/EA-Prosche/EA-Prosche"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=I+am+a+Data+Analysis...;I+am+also+a+Python+Developer...;"></a>
 </p>
 
 
