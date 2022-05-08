@@ -35,7 +35,6 @@ https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=EA-Prosche&theme=algolia" alt="EA-Prosche" />
 </p>
 
-----
 
   <summary><b>🔥 Recent GitHub Activity</b></summary>
   <br/>
