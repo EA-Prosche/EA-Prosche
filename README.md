@@ -24,7 +24,7 @@ https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"> Github Stats
 
-<p align="right"><img src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" height="192px"></p>
+<p align="right"><img src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" height="180px"></p>
 
   <br/>
   <p align="left">
