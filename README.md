@@ -27,11 +27,13 @@ https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif
   <br/>
   <p align="left">
     <a href="https://github.com/EA-Prosche/github-readme-stats"><img alt="EA-Prosche's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EA-Prosche&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-  <img src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" width="300px">
+  <img align="right" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" width="300px">
 <br/>
   &nbsp;
   </p>
-  <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EA-Prosche&theme=algolia" alt="EA-Prosche" /></p>
+  <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EA-Prosche&theme=algolia" alt="EA-Prosche" />
+  <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
+</p>
 
 ----
 
