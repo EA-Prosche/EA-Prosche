@@ -16,7 +16,7 @@ https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif
 
 <h3 align="center">
   Welcome to EA-Prosche's Github!
-  <img src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" width="28">
+  <img src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif">
 </h3>
 <p align="center">
   <a href="https://github.com/EA-Prosche/EA-Prosche"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+a+Data+Analysis...;I+am+also+a+Python+Developer...;"></a>
