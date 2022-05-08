@@ -7,7 +7,7 @@ https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif
 https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif
 --->
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"> Github Stats
 
