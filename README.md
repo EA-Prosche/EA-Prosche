@@ -24,11 +24,10 @@ https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"> Github Stats
 
-<img src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" width="300px">
-
   <br/>
   <p align="left">
     <a href="https://github.com/EA-Prosche/github-readme-stats"><img alt="EA-Prosche's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EA-Prosche&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+  <img src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" width="300px">
 <br/>
   &nbsp;
   </p>
