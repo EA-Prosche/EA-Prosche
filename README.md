@@ -22,7 +22,7 @@ https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif
 </p>
 
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"> Github Stats
+## <img> Github Stats
 
   <br/>
   <p align="left">
