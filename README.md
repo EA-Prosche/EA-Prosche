@@ -27,7 +27,7 @@ https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif
   <br/>
   <p align="left">
     <a href="https://github.com/EA-Prosche/github-readme-stats"><img alt="EA-Prosche's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EA-Prosche&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-  <img align="right" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" width="300px">
+  <img align="right" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" width="100px">
 <br/>
   &nbsp;
   </p>
